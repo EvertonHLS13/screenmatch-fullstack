@@ -1,0 +1,2 @@
+# screenmatch-fullstack
+Uma API REST em Java com Spring Boot que fornece frases aleatórias de séries e filmes. A cada requisição, a aplicação retorna uma nova frase acompanhada de pôster e título, permitindo que o front-end exiba diferentes citações sempre que o usuário clicar no botão "ver outras frases". Ideal para aprender integração entre back-end e front-end, uso de DTOs, CORS e boas práticas com Spring.
